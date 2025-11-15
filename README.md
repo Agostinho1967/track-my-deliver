@@ -71,3 +71,16 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+
+
+Como executar o projeto localmente
+
+Siga os passos abaixo para rodar o sistema em sua máquina:
+
+git clone https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git
+
+cd NOME-DO-PROJETO
+npm install
+npm run dev
+http://localhost:3000
