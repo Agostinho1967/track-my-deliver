@@ -83,4 +83,4 @@ git clone https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git
 cd NOME-DO-PROJETO
 npm install
 npm run dev
-http://localhost:3000
+http://localhost:8080/
