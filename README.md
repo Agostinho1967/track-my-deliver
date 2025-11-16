@@ -74,7 +74,7 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 
 
 
-Como executar o projeto localmente (um texto qualquer!!!)
+Como executar o projeto localmente (UM TEXTO QUALQUER!!!)
 
 Siga os passos abaixo para rodar o sistema em sua máquina:
 
